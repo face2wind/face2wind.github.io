@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to face2wind's world
 
-You can use the [editor on GitHub](https://github.com/face2wind/face2wind.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You are being watched. The government has a secret system, a machine that spies on you every hour of every day. I know because I built it. I designed the machine to detect acts of terror but it sees everything. Violent crimes involving ordinary people, people like you. Crimes the government considered "irrelevant." They wouldn't act, so I decided I would. But I needed a partner, someone with the skills to intervene. Hunted by the authorities, we work in secret. You'll never find us, but victim or perpetrator, if your number's up... we'll find you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/face2wind/face2wind.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [Person of Interest ](http://www.imdb.com/title/tt1839578/?ref_=ttqt_qt_tt).
