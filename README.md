@@ -1,2 +1,2 @@
-# face2wind.github.io
-Face2wind's world
+# Face2wind's world
+Keep It Simple, Stupid -- KISS
